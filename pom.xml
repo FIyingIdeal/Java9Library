@@ -17,6 +17,7 @@
         <module>runtime.version</module>
         <module>com.jdojo.resource</module>
         <module>com.jdojo.resource.test</module>
+        <module>com.jdojo.http.client</module>
     </modules>
 
     <build>
